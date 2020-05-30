@@ -6,7 +6,9 @@ Here are the files in our project and what they represent.
 
 Data: 
 	interesting_cases.csv:
+	interesting_cases.html:
 	- Doc you should really take a look at, the cases in the scope of investigation
+	- html file is much easier to look at--to open the csv correctly you need Mac 			numbers (excel does not work well for this)
 	that we determined. Open with excel	
 	Data from 2019 teams:
 		cases.json 
